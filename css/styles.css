@@ -37,3 +37,17 @@ body{
   height: 300px;
   width: auto;
 }
+
+.photos-left{
+  float: left;
+  width: auto;
+  height: 300px;
+  font-weight: bold;
+}
+
+.photos-right{
+  float: right;
+  width: auto;
+  height: 300px;
+  font-weight: bold;
+}
