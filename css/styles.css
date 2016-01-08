@@ -38,7 +38,10 @@ body{
   width: auto;
 }
 
-.photos-left{
+.photos-right{
+  float: none;
+}
+/*.photos-left{
   float: left;
   width: auto;
   height: 300px;
@@ -49,5 +52,5 @@ body{
   float: right;
   width: auto;
   height: 300px;
-  font-weight: bold;
+  font-weight: bold;*/
 }
