@@ -38,8 +38,9 @@ body{
   width: auto;
 }
 
-.photos-right{
-  float: none;
+.photos-left{
+  width: 400 px;
+  height: auto;
 }
 /*.photos-left{
   float: left;
